@@ -1,6 +1,7 @@
 # Timeline Analysis : Covid-19
 
-Peoject main aim is to create a storyboard to show the spread of Covid-19 cases in your country or any region(Asia, Europe, BRICS)
+Peoject main aim is to create a storyboard to show the spread of Covid-19 cases in your country or any region(Asia, Europe, BRICS).
+
 Using animation, timeline and annotations i've created attractive and interactive dashboards and story.
 
 ## Languages and Libraries Used :
